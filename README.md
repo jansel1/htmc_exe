@@ -4,7 +4,7 @@ HTMC (HTML Cloner) is a tool designed to clone websites and create HTML files co
 
 ## How to Use
 
-1. **Installation**: You can run HTMC by using either the "HTMC.exe" application or executing the "SourceCode.py" script with Python 3.11 or a higher version.
+1. **Installation**: You can run HTMC by executing the "SourceCode.py" script with Python 3.11 or a higher version.
 
 2. **Cloning a Website**: Upon launching the tool, you will be prompted to enter the URL of the website you wish to clone.
 
